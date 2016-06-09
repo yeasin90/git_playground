@@ -12,6 +12,7 @@ namespace TestApp
         {
             Console.WriteLine("Hi");
             Console.WriteLine("This line was added from server");
+            Console.WriteLine("New Line");
         }
     }
 }
