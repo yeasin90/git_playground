@@ -13,6 +13,8 @@ namespace TestApp
             Console.WriteLine("Hi");
             Console.WriteLine("This line was added from server");
             Console.WriteLine("New Line");
+
+            Console.WriteLine("This line is added from Client");
         }
     }
 }
