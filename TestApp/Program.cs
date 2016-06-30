@@ -17,6 +17,8 @@ namespace TestApp
             Console.WriteLine("Change 3");
 
             Console.WriteLine("Change 4");
+
+            Console.WriteLine("Change 5");
             // Change
         }
     }
