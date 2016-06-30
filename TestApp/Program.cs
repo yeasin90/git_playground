@@ -20,10 +20,9 @@ namespace TestApp
 
             Console.WriteLine("Change 5");
 
-
+            Console.WriteLine("Change 6");
 
             Console.WriteLine("Change 7");
-            // Change
         }
     }
 }
