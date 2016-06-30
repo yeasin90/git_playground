@@ -10,15 +10,7 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi");
-            Console.WriteLine("This line was added from server");
-            Console.WriteLine("New Line");
-
-            Console.WriteLine("This line is added from Client");
-            Console.WriteLine("This line is added from Client2");
-
-            Console.WriteLine("Code of Brachn1");
-            
+            Console.WriteLine("Change 1");
             // Change
         }
     }
