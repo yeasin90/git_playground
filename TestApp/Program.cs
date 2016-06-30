@@ -23,6 +23,8 @@ namespace TestApp
             Console.WriteLine("Change 6");
 
             Console.WriteLine("Change 7");
+            
+            Console.WriteLine("Change 8");
         }
     }
 }
