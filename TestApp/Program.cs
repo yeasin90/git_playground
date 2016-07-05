@@ -10,21 +10,7 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Change 1");
-
-            Console.WriteLine("Change 2");
-
-            Console.WriteLine("Change 3");
-
-            Console.WriteLine("Change 4");
-
-            Console.WriteLine("Change 5");
-
-            Console.WriteLine("Change 6");
-
-            Console.WriteLine("Change 7");
-            
-            Console.WriteLine("Change 8");
+            Console.WriteLine("Remove all file");
         }
     }
 }
