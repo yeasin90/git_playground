@@ -11,6 +11,8 @@ namespace TestApp
         static void Main(string[] args)
         {
             Console.WriteLine("Remove all file");
+
+            Console.WriteLine("Code from Client in new Branch");
         }
     }
 }
