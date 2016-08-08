@@ -10,6 +10,8 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
+            // Change in reset
+
             // I am changing something
 
             // Change 1
