@@ -12,6 +12,8 @@ namespace TestApp
         {
             // Change 1
 
+            // Change 2
+
             Console.WriteLine("Remove all file");
         }
     }
