@@ -19,6 +19,10 @@ namespace TestApp
             Console.WriteLine("Remove all file");
 
             // This is a change after Reset
+
+            // Some change 1
+
+            // Some Change 2
         }
     }
 }
