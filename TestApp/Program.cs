@@ -11,6 +11,8 @@ namespace TestApp
         static void Main(string[] args)
         {
             Console.WriteLine("Remove all file");
+
+            // This is a change after Reset
         }
     }
 }
