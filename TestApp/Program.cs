@@ -25,6 +25,10 @@ namespace TestApp
             // Some change 1
 
             // Some Change 2
+
+            // C1
+
+            // C2
         }
     }
 }
