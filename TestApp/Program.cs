@@ -10,6 +10,8 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
+            // Change 1
+
             Console.WriteLine("Remove all file");
         }
     }
